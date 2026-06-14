@@ -48,5 +48,12 @@ stability, and the ability to capture nonlinear patterns and structural changes 
 - Matplotlib
 
 
+# Results
+
+![Forecast Comparison](figures/CPIENERGYTESTINGCOMPARIZONSTATVSMLMODELS.png)
+
+
+![Forecast Comparison](figures/CPIFOODTESTINGCOMPARIZONSTATVSMLMODELS.png)
+
 # Author of the project
 Fedor Birilov for the BSc Statistical Data Science in Heriot-Watt University
